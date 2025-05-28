@@ -36,5 +36,11 @@
   display: flex;
   background-color: #e52626;
   width: 100%;
+<<<<<<< HEAD
   height: 40vh;
+=======
+  height: 40vh;  
+  margin-top: 50vh;
+  color: #fff;
+>>>>>>> 29d179f7304e4580b76370f7a8a561ead86fc99f
 }
